@@ -1,0 +1,7 @@
+:root {
+    --primary-r: 173;
+    --primary-g: 216;
+    --primary-b: 230;
+    --primary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 1.0);
+    --secondary-accent-color: rgba(var(--primary-r), var(--primary-g), var(--primary-b), 0.2);
+}
